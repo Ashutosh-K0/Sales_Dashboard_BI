@@ -17,17 +17,10 @@ This repository contains a Power BI dashboard created for analyzing retail sales
 ## How to Use
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone this repository or download the files.
-3. Open the `Madhav_E-commerce_Dashboard_Sales.pbix` file in Power BI Desktop.
-4. Load the dataset (`Orders.csv`) if needed.
-5. Refresh the data to view the latest insights.
-
-## Preview
-(Add dashboard screenshots here)
+3. Open the `E-commerce_Dashboard_Sales.pbix` file in Power BI Desktop.
+4. Refresh the data to view the latest insights.
 
 ## Future Scope
 - Sales forecasting
 - Integration with live databases (SQL, Azure, etc.)
 - Advanced customer segmentation
-
-## License
-This project is licensed under the MIT License.
